@@ -1,9 +1,9 @@
-#ifndef __AMD_XGBE_HW_REGS_H__
-#define __AMD_XGBE_HW_REGS_H__
+#ifndef __XGBE_HW_REGS_H__
+#define __XGBE_HW_REGS_H__
 
 
 
 
 
 
-#endif // __AMD_XGBE_HW_REGS_H__
+#endif // __XGBE_HW_REGS_H__
